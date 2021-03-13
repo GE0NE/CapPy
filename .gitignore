@@ -1,0 +1,4 @@
+build/
+CapPy_Python.egg-info/
+dist/
+cappy/__pycache__/

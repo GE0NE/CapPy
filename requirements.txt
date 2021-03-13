@@ -1,0 +1,5 @@
+numpy>=1.15.0
+pillow>=5.0.0
+pywin32>=224
+psutil>=5.4.3
+opencv-python>=3.4.0 #optional
